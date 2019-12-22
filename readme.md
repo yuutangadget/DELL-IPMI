@@ -1,5 +1,5 @@
-# INFO
+こんにちは、見ていただきありがとうございます。
 
-This is my personal scripts. Feel free to modify and improve.
+これは、https://github.com/NoLooseEnds/Scripts　から分岐したものです。
 
-They are provided "as is", and I take no responsibility if they break something on your end. 
+ただいま、設定をいろいろ、試しているので、しばらくお待ちくだ
